@@ -1,0 +1,103 @@
+{
+    "Horlogerie": {
+      "maison": "BeWatch",
+      "slogan": "BeWatch, DES MONTRES INSPIREES PAR LA SIMPLICITE.",
+      "phraseAccroche": "Le temps, réinventé en toute simplicité: BeWatch, l'élégance à chaque instant ",
+      "titreCollection":"",
+      "collections": [
+        {
+          "nom": "LES CLASSIQUES",
+          "imageCarte": "assets/montreClassique.jpg",
+          "titreImage":"Montre de la collection classique",
+          "description": "Une collection qui capture l'éclat éternel des diamants, mettant en valeur la pureté et la brillance intemporelle de chaque pièce."
+        },
+        {
+          "nom": "LES CUIRS",
+          "description": "Les saphirs d'exception prennent vie dans cette collection, symbolisant la beauté mystique et la richesse des rêves les plus précieux.",
+          "imageCarte":"assets/montreCuir.png",
+          "titreImage":"Montre de la collection cuir"
+        },
+        {
+          "nom": "LES MINIMALISTES",
+          "description": "Des émeraudes d'une couleur captivante prennent le centre de la scène, créant des pièces envoûtantes qui incarnent l'élégance naturelle.",
+          "imageCarte":"assets/montreMinimaliste.png",
+          "titreImage":"Montre de la collection minimaliste"
+        },
+        {
+          "nom": "LES ICONIQUES",
+          "description": "Les rubis les plus rares et vibrants sont méticuleusement intégrés dans des créations d'une opulence remarquable, évoquant la passion et la vitalité.",
+          "imageCarte":"assets/montresIconiques.jpg",
+          "titreImage":"Montre de la collection iconique"
+        }
+      ],
+      "créationsIconiques": [
+        {
+          "nom": "Collier Éclat Lunaire",
+          "description": "Un collier exceptionnel orné de diamants étincelants, évoquant la douce lueur de la lune. Une pièce emblématique de l'élégance intemporelle."
+        },
+        {
+          "nom": "Bague Éternité Céleste",
+          "description": "Une bague sertie de saphirs et de diamants, symbolisant l'amour éternel et la connexion céleste entre deux âmes."
+        },
+        {
+          "nom": "Boucles d'Oreilles Émeraude Royale",
+          "description": "Des boucles d'oreilles majestueuses mettant en valeur des émeraudes royales, créant une aura d'élégance raffinée et de sophistication."
+        },
+        {
+          "nom": "Bracelet Rubis Impérial",
+          "description": "Un bracelet somptueux orné de rubis impériaux, incarnant la grandeur et la puissance. Une pièce qui attire tous les regards."
+        },
+        {
+          "nom": "Collier de Perles Précieuses",
+          "description": "Un collier exquis composé de perles précieuses, rappelant la grâce intemporelle des styles classiques et de la sophistication."
+        }
+      ],
+      "services": [
+        {
+          "nom": "Créations sur Mesure",
+          "description": "Laissez-nous transformer votre vision en réalité. Nos artisans experts créeront une pièce sur mesure, unique et personnalisée pour vous."
+        },
+        {
+          "nom": "Entretien et Restauration",
+          "description": "Confiez-nous vos pièces précieuses pour un entretien professionnel et des services de restauration. Nous préservons l'éclat de vos joyaux pour les générations futures."
+        },
+        {
+          "nom": "Conseils en Joaillerie",
+          "description": "Notre équipe de spécialistes en joaillerie est là pour vous guider dans le choix de la pièce parfaite. Profitez de conseils personnalisés et d'une expertise inégalée."
+        },
+        {
+          "nom": "Évaluation de Bijoux",
+          "description": "Bénéficiez de services d'évaluation professionnels pour assurer la valeur et l'authenticité de vos bijoux. Des certificats de qualité sont fournis pour chaque pièce."
+      }
+      ],
+      "ateliers": [
+        "Paris, France",
+        "Milan, Italie",
+        "New York, États-Unis",
+        "Genève, Suisse"
+      ],
+      "engagements": [
+        "Utilisation de diamants et de pierres précieuses de la plus haute qualité",
+        "Fabrication artisanale et souci du détail",
+        "Respect des normes éthiques et responsabilité sociale",
+        "Innovation constante dans le design et les techniques de fabrication"
+      ],
+      "témoignages": [
+        {
+          "nomClient": "Isabelle",
+          "créationPréférée": "Collier Éclat Lunaire",
+          "commentaire": "Le Collier Éclat Lunaire est une pièce d'une beauté exceptionnelle. Chaque diamant semble avoir sa propre histoire à raconter. Une œuvre d'art que je chérirai toujours."
+        },
+        {
+          "nomClient": "Antoine",
+          "créationPréférée": "Bracelet Rubis Impérial",
+          "commentaire": "Le Bracelet Rubis Impérial est un chef-d'œuvre de luxe. Les rubis étincellent avec une intensité captivante. Un héritage précieux que je transmettrai à ma famille."
+        },
+        {
+          "nomClient": "Sophie",
+          "créationPréférée": "Bague Éternité Céleste",
+          "commentaire": "La Bague Éternité Céleste est bien plus qu'un bijou, c'est une déclaration d'amour éternel. Chaque saphir et diamant symbolise notre connexion céleste. Magnifique et significatif."
+        }
+      ]
+    }
+  }

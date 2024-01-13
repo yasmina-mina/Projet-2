@@ -1,0 +1,230 @@
+*{
+    margin: 0%;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.entete{
+    width: 100%;
+    height: 80px;
+    display:flex;
+    justify-content: space-between;
+    position: fixed;
+    top:0;
+}
+
+.entete:hover{
+    background-color:rgba(245, 245, 245, 0.921);
+}
+
+a:hover{
+    font-weight:bolder ;
+}
+
+.logo{
+    display: flex;
+    width:30%;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+}
+
+.coller{
+    display: flex;
+    justify-content: space-around;
+}
+
+.divHtml{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+nav{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    transition: top 0.3s;
+}
+
+#scroll{
+position: fixed; 
+ top: 0; 
+}
+
+a{
+    font-family:'Raleway', sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.icon{
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.baniere{
+    width: 100%;
+    height: 90vh;
+    background-image: url("assets/FondEcranMontre.jpg");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    box-shadow: inset;
+}
+
+.slogan{
+    height:75vh;
+    display: flex;
+    align-items:end;
+    flex-direction: column-reverse;
+}
+
+h2{
+    display: flex;
+    font-family:'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    height: fit-content;
+    color: whitesmoke;
+    background-color: rgba(211, 211, 211, 0.33);
+    backdrop-filter: blur(7px);
+    border-radius: 10px;
+    margin-right: 40px;
+    padding: 5px;
+}
+
+.phraseAccroche{
+    background-color: rgba(211, 211, 211, 0.33);
+    backdrop-filter: blur(7px);
+    border-radius: 10px;
+    margin-right: 40px;
+    font-family:'Raleway', sans-serif;
+    font-weight: 500;
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.myButton {
+	background-color: rgba(211, 211, 211, 0.781);
+	border-radius:10px;
+	border:1px solid white;
+	display:inline-block;
+	cursor:pointer;
+	color:whitesmoke;
+	font-family:'Raleway', sans-serif;
+	font-size:20px;
+    font-weight: 700;
+	padding:16px 31px;
+	text-decoration:none;
+    margin-bottom: 20px;
+    margin-right: 40px;
+}
+
+.myButton:hover {
+	background-color:gray;
+}
+
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+#lesCollections{
+    width: 100%;
+    height:105vh;
+    background-color: lightgray; 
+    box-shadow: inset 3px 12px 24px -8px rgba(0,0,0,0.63);
+}
+
+.centrer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    margin-bottom: 70px;
+}
+
+h3{
+    font-family:'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: black;
+    height: fit-content;
+}
+
+.aileslogo{
+    padding-top: 20px;
+    width:100px;
+    height: fit-content;
+}
+
+.carteCollection{
+    width: 330px;
+    height: 417px;
+    transition: all 0.7s;
+}
+
+.imgCarte{
+width: 100%;
+height: 230px;
+}
+
+h4{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    font-family:'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: white;
+    height: 100%;
+    margin-bottom:10px;
+    margin-top:10px;
+    text-shadow: 2px 1px 7px #000000;;  
+}
+
+.descriptif{
+    font-family:'Raleway', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    text-align: justify;
+    letter-spacing: 0cap;
+
+}
+
+.carteCollection:hover{
+filter: grayscale(0);
+transform: translateY(-10px);
+}
+
+.services{
+    width: 100%;
+    height:100vh;
+    background-color: lightgray; 
+}
+
+.reparation{
+    display: flex;
+}
+
+.imgReparation{
+    width:800px ;
+    margin-left: 27px;
+    box-shadow: 0px 15px 22px 0px rgba(0,0,0,0.5);
+}
+.titreReparation{
+    font-size: 25px;
+    margin-left: 250px;
+}
